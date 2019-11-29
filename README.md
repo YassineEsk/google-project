@@ -1,3 +1,3 @@
 # google-project
 
-Voici le lien pour notre nouvelle page d'acceuil ! 
+Voici le <a href="https://yassineesk.github.io/google-project/.">lien</a> pour notre nouvelle page d'acceuil ! 
