@@ -1,0 +1,204 @@
+.container 
+{
+	text-align: center;
+}
+img 
+{
+margin-top:-30%; 
+ }
+ body
+ {
+	 font-family: 'Roboto', sans-serif;
+ }
+
+input 
+{ 
+  width: 530px; 
+  margin: 30px;
+  padding: 8px;
+  border: 0px; 
+  border-radius: 22px;
+  box-shadow: 0 1px 6px 0 rgba(32, 33, 36, .28);
+  box-sizing: border-box;
+  cursor: text;
+  font-size: 16px;
+  height: 44px;
+  opacity: 1;
+
+}
+.btn1 
+{
+	height : 40px;
+	width: 140px;
+	color:#646464;
+	background: #F2F2F2;
+	border: none; 
+	cursor: pointer;
+	margin: 10px;
+}
+	.btn2 
+{
+	height : 40px;
+	width: 130px;
+	color:#646464;
+	background: #F2F2F2;
+	border: none; 
+	cursor: pointer; 
+}
+.btn1:hover,.btn2:hover 
+
+{
+  color: #373737;
+  background: #D3D3D3;
+  border: .5px solid lightgrey;
+  }
+	
+	.logo 
+	{
+		 
+  height: 100px ;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  clear: both;
+  padding-top: 112px;
+ 
+		}
+		
+.search-icon	
+
+{
+	position: relative;
+  height: 24px;
+  margin: 0px;
+  top: 6px;
+  width: 24px;
+  right: 550px;
+  
+}  
+
+input[type=text] 
+{
+  padding: 15px 50px;
+    }
+	
+	.nav {
+  display: flex;
+ justify-content: flex-end;
+}
+
+header {
+  width: 100%;
+}
+
+ul {
+  list-style: none;
+}
+
+
+#nav_bar {
+  float: right;
+  font-size: 13px;
+  
+}
+
+#nav_bar li {
+  display: inline-block;
+  padding: 8px;
+}
+
+#nav_bar #sign_in {
+  background: #4887ef; 
+  margin-right: 25px;
+  padding: 7px 12px;
+  border-radius: 3px; 
+  font-weight: bold;
+}
+
+#nav_bar #points {
+  position: relative;
+  top: 12px;
+}
+
+.liens {
+  color: #404040;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+li.liens a:hover {
+  text-decoration: underline;
+}
+
+#sign_in:hover { 
+  box-shadow: 1px 1px 5px #999;
+}
+
+#sign_in {
+  color: #fff;
+}
+
+
+.france
+
+{
+  display: flex;
+  flex-direction: column;
+  line-height: 25px;
+  border: 1px solid rgba(0,0,0,0.08);
+  background-color: #f2f2f2;
+  display: inline;
+  color: rgba(0,0,0,0.54);
+  position:absolute;
+  height:20px;
+  width: 100%;
+  position:absolute;
+  bottom:50px;
+  padding: 13px;
+}
+
+
+footer  {
+  background: #f2f2f2;
+  border-top: solid 1px #e4e4e4;
+  position: fixed; 
+  bottom: 0;
+  width: 100%;
+  right : 0px;
+
+  
+}
+
+footer ul li {
+  display: inline;
+  color: #666666;
+  font-size: 13px;
+  padding: 13px ;
+}
+
+footer ul {
+  float: left;
+  padding: 1px;
+}
+
+footer ul a:hover {
+  text-decoration: underline;
+}
+
+.footer-right {
+  float: right;
+}
+
+footer-left {
+   text-align: center;
+   margin: auto; 
+   padding-top: 10px;
+    
+ }
+  
+
+
+ 
